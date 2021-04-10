@@ -1,0 +1,57 @@
+Sampah merupakan salah satu penyebab terjadinya pencemaran
+lingkungan yang pada akhirnya akan menyebabkan kerusakan lingkungan.
+Pengelolaan sampah selama ini dilakukan secara konvensional yaitu
+pengumpulan, pengangkutan dan pembuangan akhir di Tempat Pembuangan
+Akhir (TPA). Undang-Undang Nomor 18 tahun 2008 tentang Pengelolaan
+Sampah beserta Peraturan Pemerintah Nomor 81 Tahun 2012 mengamanatkan
+perlunya perubahan paradigma yang mendasar dalam pengelolaan sampah yaitu
+paradigma kumpul-angkut-buang menjadi pengelolaan yang bertumpu pada
+pengurangan sampah dan penanganan sampah. Kegiatan pengurangan sampah
+bermakna agar seluruh lapisan masyarakat, baik pemerintah, dunia usaha maupun
+masyarakat luas melaksanakan kegiatan timbunan sampah, pendauran ulang dan
+pemanfaatan kembali sampah atau yang dikenal dengan sebutan Reduce, Reuse
+dan Recycle (3R) melalui upaya-upaya cerdas, efisien dan terprogram.
+Namun kegiatan 3R masih menghadapi kendala utama, yaitu rendahnya
+kesadaran masyarakat untuk memilah sampah. Salah satu solusi untuk mengatasi
+masalah tersebut yaitu melalui pengembangan Bank Sampah yang merupakan
+kegiatan bersifat social engineering yang mengajarkan masyarakat untuk memilah
+sampah serta menumbuhkan kesadaran masyarakat dalam pengelolaan sampah
+secara bijak sehingga akan mengurangi sampah yang diangkut ke TPA.
+Pembangunan Bank Sampah menjadi titik awal membina kesadaran masyarakat
+untuk memulai memilah, mendaur-ulang, dan memanfaatkan sampah, karena
+sampah mempunyai nilai jual yang cukup baik, sehingga pengelolaan sampah
+yang berwawasan lingkungan menjadi budaya baru Indonesia.
+Bank Sampah Enviro Andalas merupakan bank sampah yang berada
+dibawah naungan Pusat Pengelolaan Sampah Terpadu (PPST) Universitas
+Andalas. PPST merupakan penyelenggara pengelolaan sampah dan menjadi
+sarana penting untuk mendaur ulang sampah yang ditimbulkan di lingkungan
+Universitas Andalas. Operasional PPST Universitas Andalas meliputi
+pengomposan sampah basah layak kompos dan pengelolaan sampah kering layak 
+jual dengan penerapan bank sampah. Sampah kering layak jual dapat ditabung
+oleh masyarakat kampus ke Bank Sampah Enviro Andalas.
+Proses pengelolaan bank sampah Enviro Andalas sudah berjalan dengan
+baik. Proses pengelolaan bank sampah Enviro Andalas dimulai dari pendaftaran
+nasabah, pendaftaran nasabah dilakukan dengan mengisi formulir. Untuk proses
+transaksi bank sampah seperti transaksi menabung dan transaksi penarikan bisa
+dilakukan setelah nasabah terdaftar. Setiap transaksi di Bank sampah Enviro
+Andalas harus dilakukan melalui pegawai Bank dan tercatat pada buku tabungan
+nasabah. Proses penjemputan sampah dilakukan dengan cara nasabah memberi
+tahu petugas bank sampah dan memberikan lokasi penjemputan sampah.
+Berdasarkan wawancara yang dilakukan pada tanggal 23 Desember 2016
+dengan Bapak Dedi Jusar Ahmeidi selaku Pelaksana Bank Sampah Enviro
+Andalas, diketahui bahwa jumlah nasabah yang terdaftar sampai tahun 2015 yaitu
+1819 orang dan sampah yang ditabung berjumlah 2.871,26 kilogram. Banyaknya
+jumlah nasabah dan transaksi yang terjadi mengakibatkan pengelola kesulitan
+dalam memantau kinerja dan transaksi yang berjalan secara realtime. Petugas
+bank sampah juga kesulitan menemukan lokasi penjemputan sampah karena
+petunjuk lokasi diberikan oleh nasabah melalui panggilan telepon sehingga tidak
+ada peta pasti mengenai lokasi penjemputan sampah.
+Pada proses penabungan sampah, Bank Sampah Enviro Andalas bisa
+melakukan penjemputan sampah. Penjemputan sampah dilakukan oleh petugas
+setelah nasabah meminta penjemputan sampah, dengan syarat lokasi sampah yang
+dijemput berada di lingkungan Universitas Andalas. Fitur lokasi pada sistem
+informasi yang akan dikembangkan bisa membantu nasabah dan petugas bank
+sampah dalam memberikan dan mengetahui lokasi penjemputan sampah dengan
+jelas dan akurat.
+ide seseorang yang mengubah menjadi prodak 
+copyright mudaha di duplkasi,
